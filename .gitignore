@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local data and vector store
+chroma_db/
+data/
+.tmp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Env files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
