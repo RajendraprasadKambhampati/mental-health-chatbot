@@ -34,9 +34,6 @@ python ingest.py
 streamlit run streamlit_app.py
 ```
 
-Perfect 👍 thanks for clarifying.
-Since there’s no file upload feature, we should keep the **Usage** section simple and only explain how to set the API key and run the chatbot. Here’s the corrected version:
-
 ````markdown
 ## Usage
 1. Set your **Groq API key** as an environment variable:
@@ -58,9 +55,6 @@ Since there’s no file upload feature, we should keep the **Usage** section sim
 
 ```
 
-👉 This removes all mentions of sidebars and file uploads.  
-
-Do you want me to rewrite your **README with this updated Usage section** so you can just copy-paste it in one go?
 ```
 
 ## Notes
