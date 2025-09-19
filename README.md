@@ -33,9 +33,9 @@ python ingest.py
 # 5) Run the Streamlit app
 streamlit run streamlit_app.py
 ```
-
+# Usage
 ````markdown
-## Usage
+
 1. Set your **Groq API key** as an environment variable:
    ```bash
    export GROQ_API_KEY="your_api_key_here"
