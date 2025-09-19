@@ -2,6 +2,10 @@
 
 A supportive, empathetic RAG chatbot using LangChain, ChromaDB, Groq LLMs, and Streamlit.
 
+![Chatbot Screenshot](assets/chatbot_output.png)  
+*Example of chatbot output in the Streamlit app*
+
+
 ## Prerequisites
 - Python 3.10+
 - A Groq API key (get one at `https://console.groq.com`)
