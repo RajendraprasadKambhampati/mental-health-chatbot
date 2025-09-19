@@ -2,8 +2,11 @@
 
 A supportive, empathetic RAG chatbot using LangChain, ChromaDB, Groq LLMs, and Streamlit.
 
-![Chatbot Screenshot](assets/![Uploading Screenshot 2025-09-19 105140.jpg…]()
-)  
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/e8309cbb-9563-4901-9c6b-00514aff72cb" />
+
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/6a1f9d78-b35b-4754-b5bf-3eed9092cae0" />
+
+  
 *Example of chatbot output in the Streamlit app*
 
 
