@@ -14,7 +14,7 @@ A supportive, empathetic RAG chatbot using LangChain, ChromaDB, Groq LLMs, and S
 - Python 3.10+
 - A Groq API key (get one at `https://console.groq.com`)
 
-## Setup
+# Setup
 ```bash
 # 1) Create and activate a virtualenv (Windows PowerShell)
 python -m venv .venv
@@ -53,9 +53,6 @@ streamlit run streamlit_app.py
 
    * Responses are **RAG-augmented** and streamed in real time.
 
-```
-
-```
 
 ## Notes
 - This app is not a substitute for professional mental health care.
