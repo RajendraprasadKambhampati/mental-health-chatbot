@@ -34,10 +34,34 @@ python ingest.py
 streamlit run streamlit_app.py
 ```
 
+Perfect 👍 thanks for clarifying.
+Since there’s no file upload feature, we should keep the **Usage** section simple and only explain how to set the API key and run the chatbot. Here’s the corrected version:
+
+````markdown
 ## Usage
-- Use the sidebar to set your Groq API key and model.
-- Upload .pdf/.txt/.md documents to expand the knowledge base.
-- Chat in the main panel. Responses are RAG-augmented and streamed.
+1. Set your **Groq API key** as an environment variable:
+   ```bash
+   export GROQ_API_KEY="your_api_key_here"
+````
+
+(On Windows PowerShell, use: `setx GROQ_API_KEY "your_api_key_here"`)
+
+2. Start the chatbot:
+
+   ```bash
+   streamlit run app.py
+   ```
+
+3. Open the provided local URL in your browser and start chatting.
+
+   * Responses are **RAG-augmented** and streamed in real time.
+
+```
+
+👉 This removes all mentions of sidebars and file uploads.  
+
+Do you want me to rewrite your **README with this updated Usage section** so you can just copy-paste it in one go?
+```
 
 ## Notes
 - This app is not a substitute for professional mental health care.
