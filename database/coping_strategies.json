@@ -1,0 +1,22 @@
+{
+  "happy": [
+    "That's great! Keep up the positive vibes and try sharing your happiness with someone.",
+    "Awesome! Celebrate small wins every day to stay motivated."
+  ],
+  "sad": [
+    "I'm sorry you're feeling sad. Try talking to someone you trust or write down your feelings.",
+    "It's okay to feel sad sometimes. Taking a short walk or listening to music can help."
+  ],
+  "angry": [
+    "Take a deep breath and count to ten. This can help you calm down.",
+    "Channel your anger into something productive, like exercise or writing."
+  ],
+  "anxious": [
+    "Try a 3-minute breathing exercise to calm your mind.",
+    "Break tasks into small steps and focus on one thing at a time."
+  ],
+  "neutral": [
+    "Remember to take care of yourself today. Small self-care routines help a lot.",
+    "Keep a positive mindset and take breaks when needed."
+  ]
+}
